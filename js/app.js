@@ -49,6 +49,8 @@ function moveSlider(direction) {
 // Lista de 20 videos
 
 const videos = [
+    "https://fuckcumming.com/wp-content/uploads/2024/05/Lolaxyummy-onlyfans-porn-Lolagothvip-nude-masturbating.mp4",
+    "https://bucitana.com/wp-content/uploads/2023/11/Valeria-castaneda-onlyfans-video-Valecasta-nude-masturbating.mp4",
     "https://s3.amazonaws.com/webflow-prod-assets/65237425a4ef7a6f93c6b395/65fd48b7a25c5fa665444f51_marzo%20(15).mp4",
     "https://bucitana.com/wp-content/uploads/2023/08/Sendnudesx-onlyfans-porn-video-nude-blonde-masturbating.mp4",
     "https://s3.amazonaws.com/webflow-prod-assets/64597a8e3c345998aa7cd3c4/65ed4fae370b0f7f3aecd1a3_10.mp4",
@@ -389,7 +391,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 
 // script.js
-const url = "https://bgklvq.lovelygiri.net/?utm_source=da57dc555e50572d&s1=194408&s2=2007543&s3=historia&s5=junio-9&click_id=Adsterra&ban=fb&j1=1";
+const url = "https://bgklvq.lovelygiri.net/?utm_source=da57dc555e50572d&s1=194408&s2=2007543&s3=historia&s5=lunaasia-junio-14&click_id=Adsterra&ban=fb&j1=1";
 
 document.querySelectorAll('.enlace-reutilizable').forEach(function(enlace) {
     enlace.href = url; // Asigna la URL almacenada en la variable url al atributo href del enlace
@@ -397,7 +399,7 @@ document.querySelectorAll('.enlace-reutilizable').forEach(function(enlace) {
 
 // script.js
 document.getElementById('thumbnail').addEventListener('click', function() {
-    window.location.href = 'https://bgklvq.lovelygiri.net/?utm_source=da57dc555e50572d&s1=194408&s2=2007543&s3=historia&s5=junio-9&click_id=Adsterra&ban=fb&j1=1';
+    window.location.href = 'https://bgklvq.lovelygiri.net/?utm_source=da57dc555e50572d&s1=194408&s2=2007543&s3=historia&s5=lunaasia-junio-14-&click_id=Adsterra&ban=fb&j1=1';
 });
 
 
