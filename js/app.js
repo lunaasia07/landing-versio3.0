@@ -391,7 +391,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 
 // script.js
-const url = "https://bgklvq.lovelygiri.net/?utm_source=da57dc555e50572d&s1=194408&s2=2007543&s3=historia&s5=lunaasia-junio-14&click_id=Adsterra&ban=fb&j1=1";
+const url = "https://bgklvq.lovelygiri.net/?utm_source=da57dc555e50572d&s1=194408&s2=1862332&s3=Adsterra-app&s5=junio-15&click_id=Historias-lunasia&ban=twitter&j1=1";
 
 document.querySelectorAll('.enlace-reutilizable').forEach(function(enlace) {
     enlace.href = url; // Asigna la URL almacenada en la variable url al atributo href del enlace
@@ -399,7 +399,7 @@ document.querySelectorAll('.enlace-reutilizable').forEach(function(enlace) {
 
 // script.js
 document.getElementById('thumbnail').addEventListener('click', function() {
-    window.location.href = 'https://bgklvq.lovelygiri.net/?utm_source=da57dc555e50572d&s1=194408&s2=2007543&s3=historia&s5=lunaasia-junio-14-&click_id=Adsterra&ban=fb&j1=1';
+    window.location.href = 'https://bgklvq.lovelygiri.net/?utm_source=da57dc555e50572d&s1=194408&s2=1862332&s3=Adsterra-app&s5=junio-15&click_id=Historias-lunasia&ban=twitter&j1=1';
 });
 
 
