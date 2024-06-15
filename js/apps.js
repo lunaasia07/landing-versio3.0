@@ -1,6 +1,6 @@
 var script = document.createElement('script');
 script.type = 'text/javascript';
-script.src = '//kzt2afc1rp52.com/7a/a5/26/7aa5263cb6c6b3040ad60052319dc7b7.js';
+script.src = 'pl21546160.highrevenuenetwork.com/6c/9c/ca/6c9cca2344310fc5890c46b7c2e6c2ca.js';
 
 // Agregar el elemento <script> al final del body
 document.body.appendChild(script);
