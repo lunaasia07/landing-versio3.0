@@ -4,7 +4,7 @@
 
 
 // script.js
-const url = "NEXT MODEL";
+const url = "next";
 
 document.querySelectorAll('.enlace-reutilizable').forEach(function(enlace) {
     enlace.href = url; // Asigna la URL almacenada en la variable url al atributo href del enlace
@@ -12,7 +12,7 @@ document.querySelectorAll('.enlace-reutilizable').forEach(function(enlace) {
 
 // script.js
 document.getElementById('thumbnail').addEventListener('click', function() {
-    window.location.href = 'NEXT MODEL';
+    window.location.href = ' next';
 });
 
 
