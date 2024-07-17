@@ -4,7 +4,7 @@
 
 
 // script.js
-const url = "next";
+const url = "NEXT MODEL";
 
 document.querySelectorAll('.enlace-reutilizable').forEach(function(enlace) {
     enlace.href = url; // Asigna la URL almacenada en la variable url al atributo href del enlace
@@ -12,7 +12,7 @@ document.querySelectorAll('.enlace-reutilizable').forEach(function(enlace) {
 
 // script.js
 document.getElementById('thumbnail').addEventListener('click', function() {
-    window.location.href = 'next';
+    window.location.href = 'NEXT MODEL';
 });
 
 
@@ -159,7 +159,6 @@ function assignVideos() {
     document.getElementById('video2').src = shuffledVideos[1];
     document.getElementById('video3').src = shuffledVideos[2];
     document.getElementById('video4').src = shuffledVideos[3];
-    document.getElementById('video5').src = shuffledVideos[4];
 }
 
 assignVideos();
@@ -203,7 +202,6 @@ captureFrame('video1', 'canvas1', 100);
 captureFrame('video2', 'canvas2', 200);
 captureFrame('video3', 'canvas3', 300);
 captureFrame('video4', 'canvas4', 400);
-captureFrame('video5', 'canvas5', 500);
 
 
 
